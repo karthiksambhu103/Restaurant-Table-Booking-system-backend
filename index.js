@@ -8,7 +8,7 @@ const port = 5000;
 
 // CORS configuration
 const corsOptions = {
-  origin: 'https://tablebookingsystemKrs20.netlify.app', // Your frontend domain
+  origin: 'https://tablebookingsystemkrs20.netlify.app', // Your frontend domain
   methods: ['GET', 'POST', 'PUT', 'DELETE'], // Allowed HTTP methods
   allowedHeaders: ['Content-Type', 'Authorization', 'auth-token'] // Allowed headers
 };
